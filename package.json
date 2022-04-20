@@ -6,5 +6,10 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "echo without tests",
+    "build": "echo not able to build",
+    "lint": "echo not able to lint"
   }
 }
